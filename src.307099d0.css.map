@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,KACE,sBACF,CACA,SACE,uBAAwB,CACxB,YACF,CACA,KACE,cACF","file":"src.307099d0.css","sourceRoot":"..","sourcesContent":["body {\n  font-family: sans-serif;\n}\ndiv.main {\n  background-color: bisque;\n  padding: 10px;\n}\nspan {\n  font-size: 10px;\n}\n"]}
